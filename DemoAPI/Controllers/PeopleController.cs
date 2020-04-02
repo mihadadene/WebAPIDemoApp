@@ -41,7 +41,7 @@ namespace DemoAPI.Controllers
             return output;
         }
         /// <summary>
-        /// Get list of all people
+        /// Get list of peoples
         /// </summary>
         /// <returns></returns>
         // GET: api/People
